@@ -29,3 +29,7 @@ title() {
 }
 
 export -f title
+
+# I like the home bin for custom scripts
+export PATH=$PATH:~/bin/
+
